@@ -11,7 +11,7 @@
 ## 📫 Lets Connect With ME:)
 - Instagram: [@iz_nrsydn](https://www.instagram.com/iz_nrsydn?igsh=MWw4NXgyODRiaGRoNg==)
 - LinkedIn: [Faiz Nurrosyiddin](https://www.linkedin.com/in/faiz-nurrosyiddin-5ab658327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: [faiznurrosyiddin2606@gmail.com](faiznurrosyiddin2606@gmail.com)
+- Email: faiznurrosyiddin2606@gmail.com
 <!--
 **FaizNrsydn/FaizNrsydn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
