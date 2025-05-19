@@ -3,7 +3,7 @@
 🧑‍🎓 Faiz Nurrosyiddin  
 🎓 Informatics Engineering student at Telkom University  
 💡 Passionate About Artificial Intellegent  
-🔭 I’m currently learning GO, C, Python, Web Dev  
+🔭 I’m currently learning GO, C, Python, Web Dev, MySQL  
 📚 Interested in: Machine Learning, Database Design, Cloud Computing  
 🌱 Always eager to explore new technologies and contribute to open source projects  
 > "Programs must be written for people to read, and only incidentally for machines to execute."  
